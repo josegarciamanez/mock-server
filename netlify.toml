@@ -4,4 +4,4 @@
   functions = "functions"
 
 [build.environment]
-  PORT = 3001
+  PORT = 3002
