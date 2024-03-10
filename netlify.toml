@@ -2,6 +2,3 @@
   command = "npm install && npm run start"
   publish = "."
   functions = "functions"
-
-[build.environment]
-  PORT = 3001
